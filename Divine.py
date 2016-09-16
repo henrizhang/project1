@@ -1,3 +1,8 @@
+# Edmond Lam and Henry Zhang
+# SoftDev1 pd8
+# HW#01 -- Divine Your Destiny
+# 2016-09-15
+
 import random
 import io
 import csv
